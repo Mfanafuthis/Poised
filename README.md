@@ -1,5 +1,5 @@
 # Poised
-This a project management system used by a small structural engeneering firm called "Poised". Poised does engineering needed to ensure the structural integrity of various buildings.
+This a project management system used by a small structural engineering firm called "Poised". Poised does engineering needed to ensure the structural integrity of various buildings.
 ## TABLE OF CONTENT
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -12,7 +12,7 @@ This a project management system used by a small structural engeneering firm cal
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contacts)
 ## GENERAL INFORMATION
-The program capture project details and updated the existing ones. It also stores the information of all personel involved in the project, like contractor's information
+The program capture project details and updated the existing ones. It also stores the information of all personnel involved in the project, like contractor's information
 ## TECHNOLOGIES USED
 * Eclipse
 ## FEATURES
@@ -21,7 +21,7 @@ The program capture project details and updated the existing ones. It also store
 * Finalise existing projects by:
   * Generating invoice
   * Marking the project as complete
-* Captures contractos information
+* Captures contractors information
 * Updated the contractors information
 ## SCREENSHOTS
 <br><br>
@@ -31,19 +31,19 @@ The program capture project details and updated the existing ones. It also store
 <img src = "screenshoots/Capture3.PNG" width  = 400>
 ## SETUP
 Download all the .java files and use one of the following IDE to execute the program
-This program can executed using:
+This program can execute using:
 * Eclipse 
 * VS code
 * or any java compatible IDE
 ## USAGE
 Once all the files have been downloaded on to the single folder follow the steps below to run you program
-1. Diploy/execute the program
+1. Deploy/execute the program
 2. The options will be displayed
-3. Select on obtion by typing
+3. Select on option by typing
 4. The program will guide you into entering correct information
-5. Make sure you enter correct infomation
+5. Make sure you enter correct information
 ## PROJECT STATUS
-* In prograss
+* In progress
 ## ROOM FOR IMPROVEMENT
 * Error handling 
 * More options for the user
